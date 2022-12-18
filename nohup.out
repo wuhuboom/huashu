@@ -1,0 +1,91 @@
+值:huashu3读取配置成功
+数据不存在,所以我要先创建数据库
+数据不存在,所以我要先创建数据库
+数据不存在,所以我要先创建数据库
+数据不存在,所以我要先创建数据库
+数据库已经存在了!
+数据库已经存在了!
+数据不存在,所以我要先创建数据库
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /get                      --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] GET    /getTwo                   --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] POST   /setWordLibrary           --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibrary (4 handlers)
+[GIN-debug] GET    /downWordWords            --> github.com/wangyi/makeAccount/controller/Library.DownWordWords (4 handlers)
+[GIN-debug] POST   /uploadWords              --> github.com/wangyi/makeAccount/controller/Library.UploadWords (4 handlers)
+[GIN-debug] POST   /setThePhrase             --> github.com/wangyi/makeAccount/controller/Library.SetThePhrase (4 handlers)
+[GIN-debug] POST   /setWordLibraryV2         --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibraryV2 (4 handlers)
+[GIN-debug] GET    /downWordWordsV2          --> github.com/wangyi/makeAccount/controller/Library.DownWordWordsV2 (4 handlers)
+[GIN-debug] POST   /uploadWordsV2            --> github.com/wangyi/makeAccount/controller/Library.UploadWordsV2 (4 handlers)
+[GIN-debug] POST   /setThePhraseV2           --> github.com/wangyi/makeAccount/controller/Library.SetThePhraseV2 (4 handlers)
+[GIN-debug] POST   /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /DownHash                 --> github.com/wangyi/makeAccount/controller/hash.DownHash (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7773
+值:huashu3读取配置成功
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /get                      --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] GET    /getTwo                   --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] POST   /setWordLibrary           --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibrary (4 handlers)
+[GIN-debug] GET    /downWordWords            --> github.com/wangyi/makeAccount/controller/Library.DownWordWords (4 handlers)
+[GIN-debug] POST   /uploadWords              --> github.com/wangyi/makeAccount/controller/Library.UploadWords (4 handlers)
+[GIN-debug] POST   /setThePhrase             --> github.com/wangyi/makeAccount/controller/Library.SetThePhrase (4 handlers)
+[GIN-debug] POST   /setWordLibraryV2         --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibraryV2 (4 handlers)
+[GIN-debug] GET    /downWordWordsV2          --> github.com/wangyi/makeAccount/controller/Library.DownWordWordsV2 (4 handlers)
+[GIN-debug] POST   /uploadWordsV2            --> github.com/wangyi/makeAccount/controller/Library.UploadWordsV2 (4 handlers)
+[GIN-debug] POST   /setThePhraseV2           --> github.com/wangyi/makeAccount/controller/Library.SetThePhraseV2 (4 handlers)
+[GIN-debug] POST   /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /DownHash                 --> github.com/wangyi/makeAccount/controller/hash.DownHash (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7773
+值:huashu3读取配置成功
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+数据库已经存在了!
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /get                      --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] GET    /getTwo                   --> github.com/wangyi/makeAccount/controller/account.Account (4 handlers)
+[GIN-debug] POST   /setWordLibrary           --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibrary (4 handlers)
+[GIN-debug] GET    /downWordWords            --> github.com/wangyi/makeAccount/controller/Library.DownWordWords (4 handlers)
+[GIN-debug] POST   /uploadWords              --> github.com/wangyi/makeAccount/controller/Library.UploadWords (4 handlers)
+[GIN-debug] POST   /setThePhrase             --> github.com/wangyi/makeAccount/controller/Library.SetThePhrase (4 handlers)
+[GIN-debug] POST   /setWordLibraryV2         --> github.com/wangyi/makeAccount/controller/Library.SetWordsLibraryV2 (4 handlers)
+[GIN-debug] GET    /downWordWordsV2          --> github.com/wangyi/makeAccount/controller/Library.DownWordWordsV2 (4 handlers)
+[GIN-debug] POST   /uploadWordsV2            --> github.com/wangyi/makeAccount/controller/Library.UploadWordsV2 (4 handlers)
+[GIN-debug] POST   /setThePhraseV2           --> github.com/wangyi/makeAccount/controller/Library.SetThePhraseV2 (4 handlers)
+[GIN-debug] POST   /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /GetHash                  --> github.com/wangyi/makeAccount/controller/hash.GetHash (4 handlers)
+[GIN-debug] GET    /DownHash                 --> github.com/wangyi/makeAccount/controller/hash.DownHash (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :7773
+[GIN-debug] [ERROR] listen tcp :7773: bind: address already in use
